@@ -34,7 +34,7 @@ class QuickScan extends StatelessWidget {
                             FontVariables.getStyle(TextSize.lg, Colors.black),
                       ),
                       Text(
-                        'Just scan and the AI will \n know exactly',
+                        'Just scan and the AI will\nknow exactly',
                         style: TextStyle(
                           color: ColorVariables.riverStone,
                         ),

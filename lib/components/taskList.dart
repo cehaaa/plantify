@@ -38,7 +38,7 @@ class TaskList extends StatelessWidget {
         ),
         Container(
           margin: EdgeInsets.only(top: 20),
-          height: 140,
+          height: 150,
           child: ListView(
             scrollDirection: Axis.horizontal,
             physics: BouncingScrollPhysics(),
