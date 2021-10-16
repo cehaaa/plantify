@@ -1,4 +1,4 @@
-# flutter_pocket
+# Plantify
 
 A new Flutter project.
 
